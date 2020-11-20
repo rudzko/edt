@@ -37,5 +37,4 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <enums>Enum.СтавкиНДС</enums>
-  <enums>Enum.ВидыНоменклатуры</enums>
 </mdclass:Configuration>
